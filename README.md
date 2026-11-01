@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Leggit 👋
 
-<!--
-**wadday/wadday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught developer from **Fuvahmulah, Maldives** 🇲🇻, building with Laravel since v4.2.
 
-Here are some ideas to get you started:
+I build backend APIs, admin panels and mobile apps, mostly for councils, local businesses and civic tech here in the Maldives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Inertia](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
+### 🚧 What I work on
+- 🏛️ Council & government systems: land management, case management, meeting governance
+- ⚡ Realtime infrastructure with Laravel Reverb
+- 📦 [composer-store](https://github.com/wuemv/composer-store): a pnpm-style global package store for Composer
+- 🗺️ Self-hosted map tiles for the Maldives
+
+### 📫 Find me
+- 🌐 [wue.mv](https://wue.mv)
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-HANDLE)
+- ✉️ your@email.com
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadday&show_icons=true&theme=dark&hide_border=true)
