@@ -26,3 +26,6 @@ I build backend APIs, admin panels and mobile apps, mostly for councils, local b
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=wadday&theme=dark&hide_border=true)
+
+![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
