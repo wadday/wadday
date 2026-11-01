@@ -2,7 +2,7 @@
 
 Self-taught developer from **Fuvahmulah, Maldives** 🇲🇻, building with Laravel since v4.2.
 
-I build backend APIs, admin panels and mobile apps, mostly for councils, local businesses and civic tech here in the Maldives.
+I build backend APIs, admin panels, websites, and mobile apps, mostly for local businesses and civic tech here in the Maldives.
 
 ### 🛠️ Stack
 
