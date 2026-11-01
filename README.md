@@ -24,4 +24,5 @@ I build backend APIs, admin panels and mobile apps, mostly for councils, local b
 - 💼 [LinkedIn](https://linkedin.com/in/leggit)
 - ✉️ leggit@wue.mv
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wadday&show_icons=true&theme=dark&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=wadday&theme=dark&hide_border=true)
