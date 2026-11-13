@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Wadday hassan&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 13, Total Commits  : 5286, Total PRs: 548, Total PRs Merged: 528, Total PRs Reviewed: 2, Total Issues: 70, Contributed to (last year): 46</desc>
+        <desc id="descId">Total Stars Earned: 13, Total Commits  : 5295, Total PRs: 554, Total PRs Merged: 534, Total PRs Reviewed: 2, Total Issues: 70, Contributed to (last year): 46</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 86.18142088722006;
+        stroke-dashoffset: 86.17222679312067;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >548</text>
+      >554</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >528</text>
+      >534</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
